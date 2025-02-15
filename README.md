@@ -1,4 +1,7 @@
 Randomized Character Backstory Generator
+
+![image](https://github.com/user-attachments/assets/26e6abb0-d7ef-429e-8ea3-f10548bf6930)
+
 Overview
 
 This project is a randomized backstory generator that creates unique character backgrounds using Tkinter for a GUI interface. It constructs dynamic and diverse character stories by pulling from pre-defined text files, ensuring endless variations.
