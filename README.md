@@ -27,24 +27,7 @@ The program loads pre-written lists of:
     Personalities
     Likes & dislikes
 
-Each backstory is generated randomly by selecting values from these lists and inserting them into predefined sentence structures. The result is a unique, readable story every time.
-Installation
-1. Install Python (if not already installed)
-
-Ensure you have Python 3 installed. You can download it from: Python Official Website
-2. Install Required Libraries
-
-Run the following command:
-
-pip install tkinter
-
-(Tkinter is usually included with Python, but install it if missing.)
-Usage
 Running the Program
-
-    Place the script in a directory containing a subfolder named inputs/.
-    Ensure text files (e.g., name.txt, adjective.txt, etc.) exist inside inputs/.
-    Run the script:
 
 python backstory_generator.py
 
